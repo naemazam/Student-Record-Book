@@ -4,7 +4,7 @@ The system can help you manage the list of the student records by entering infor
 
 The system uses a basic CRUD function that utilize the capability by adding, deleting, reading, updating the data. The Simple Student Record Book was developed as a basic coding structure of C that is very user-friendly kind of system for developers and you can learn something new.
 
-What You Can Do With This:
+# What You Can Do With This:
 - Add a record
 - Delete a record
 - Modify a record
